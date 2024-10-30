@@ -26,8 +26,8 @@
  **<h3 align="left">Skills</h3>**
 
 #### 💻 Tech Stack 
-- Frontend: React, TypeScript, Web3 Integration 
-- Backend: Node.js, Express, MongoDB 
+- Frontend: Next.js, React, TypeScript, Web3 Integration, Zustand
+- Backend: Node.js, Express, PostgreSQL 
 - Blockchain: Solidity, EVM, Bitcoin (BRC20/Inscriptions) 
 - Tools: Hardhat, Ethers.js
 
