@@ -129,7 +129,7 @@ def card_lines(stats: Stats, today: date) -> list[tuple[str, str] | str]:
         ("Previously", "Bitcoin Ordinals · BRC-20 · EVM · UTXO"),
         "",
         "- Building",
-        ("dream.mn", "multi-tenant commerce OS · 7+ live tenants"),
+        ("dream.mn", "Dreamon ecosystem · 15+ services, 7+ tenants"),
         ("capitalmarkets", "Mongolia's capital markets, for global investors"),
         ("Commerce MCP", "run catalog + finance ops from Claude"),
         "",

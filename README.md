@@ -7,14 +7,13 @@
 
 ### Now
 
-- **[Dream](https://dream.mn)** — CTO at [Dreamon](https://dreamon.mn). I architected the multi-tenant platform Mongolian businesses run on: storefronts, POS, inventory, orders and finance, with QPay, SocialPay and eBarimt built in. Live tenants include the NetMall marketplace, Columbia, AQUA and Goo Khatad. 158-model domain, vendor payouts, double-entry ledger. NestJS · Prisma · PostgreSQL · Next.js.
+- **[Dreamon ecosystem](https://dream.mn)** — CTO at [Dreamon](https://dreamon.mn). I architected the platform Mongolian businesses run their commerce, operations and finance on: 15+ services, from storefronts, POS and the XOS site builder to Dream ID, settlement, billing and eBarimt, with QPay and SocialPay built in. It powers NetMall, Columbia, Clean Beauty and AQUA. NestJS · Prisma · PostgreSQL · Next.js.
 - **[Capital Markets Mongolia](https://capitalmarkets.mn)** — the international investor's guide to Mongolia's capital markets. Lead backend + AI engineer (contract). The Claude-powered entity pipeline behind the company directory (scrape → enrich → merge, with provenance) is in production; the AI news pipeline for insights and the newsletter is close behind.
 - **Commerce MCP** — an MCP server that lets operators run catalog, merchandising and finance work from Claude, with propose → approve → apply writes.
 
-### Start here
+### Side project
 
-- [**ghost**](https://github.com/dolgoonnn/ghost) — local capture and semantic search of AI coding sessions
-- [**rl-trading-agent**](https://github.com/dolgoonnn/rl-trading-agent) — reinforcement learning on market data
+- [**rl-trading-agent**](https://github.com/dolgoonnn/rl-trading-agent) — live and paper trading bot on Bybit: backtesting, position sizing, kill-switch and drawdown halts, an append-only decision log, and an ICT knowledge base with semantic search.
 
 ### Before
 
