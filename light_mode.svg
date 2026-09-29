@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1142" height="488" viewBox="0 0 1142 488" font-family="SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="16px">
+<style>@keyframes in{from{opacity:0}to{opacity:1}}.l{animation:in .35s ease-out backwards}@keyframes blink{50%{opacity:0}}.c{animation:blink 1.1s step-end infinite}</style>
+<rect width="1142" height="488" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="24" y="186" fill="#0969da" font-size="18px" font-weight="bold" xml:space="preserve" class="l" style="animation-delay:0.00s">       __      __                       </text>
+<text x="24" y="210" fill="#0969da" font-size="18px" font-weight="bold" xml:space="preserve" class="l" style="animation-delay:0.08s">  ____/ /___  / /___ _____  ____  ____  </text>
+<text x="24" y="234" fill="#0969da" font-size="18px" font-weight="bold" xml:space="preserve" class="l" style="animation-delay:0.16s"> / __  / __ \/ / __ `/ __ \/ __ \/ __ \ </text>
+<text x="24" y="258" fill="#0969da" font-size="18px" font-weight="bold" xml:space="preserve" class="l" style="animation-delay:0.24s">/ /_/ / /_/ / / /_/ / /_/ / /_/ / / / / </text>
+<text x="24" y="282" fill="#0969da" font-size="18px" font-weight="bold" xml:space="preserve" class="l" style="animation-delay:0.32s">\__,_/\____/_/\__, /\____/\____/_/ /_/  </text>
+<text x="24" y="306" fill="#0969da" font-size="18px" font-weight="bold" xml:space="preserve" class="l" style="animation-delay:0.40s">             /____/                     </text>
+<text x="485" y="40" xml:space="preserve" class="l" style="animation-delay:0.50s"><tspan fill="#953800" font-weight="bold">dolgoon</tspan><tspan fill="#24292f">@</tspan><tspan fill="#953800" font-weight="bold">ulaanbaatar</tspan></text>
+<text x="485" y="62" xml:space="preserve" class="l" style="animation-delay:0.56s"><tspan fill="#8c959f">──────────────────────────────────────────────────────────────────</tspan></text>
+<text x="485" y="84" xml:space="preserve" class="l" style="animation-delay:0.62s"><tspan fill="#953800">OS</tspan><tspan fill="#8c959f"> ............. </tspan><tspan fill="#24292f">Mongolia, UTC+8</tspan></text>
+<text x="485" y="106" xml:space="preserve" class="l" style="animation-delay:0.68s"><tspan fill="#953800">Uptime</tspan><tspan fill="#8c959f"> ......... </tspan><tspan fill="#24292f">4 years, 10 months</tspan></text>
+<text x="485" y="128" xml:space="preserve" class="l" style="animation-delay:0.74s"><tspan fill="#953800">Host</tspan><tspan fill="#8c959f"> ........... </tspan><tspan fill="#24292f">Dreamon · CTO</tspan></text>
+<text x="485" y="150" xml:space="preserve" class="l" style="animation-delay:0.80s"><tspan fill="#953800">Kernel</tspan><tspan fill="#8c959f"> ......... </tspan><tspan fill="#24292f">Multi-tenant commerce: B2C · B2B · marketplace</tspan></text>
+<text x="485" y="172" xml:space="preserve" class="l" style="animation-delay:0.86s"><tspan fill="#953800">Stack</tspan><tspan fill="#8c959f"> .......... </tspan><tspan fill="#24292f">TypeScript · NestJS · Next.js · Prisma · Postgres</tspan></text>
+<text x="485" y="194" xml:space="preserve" class="l" style="animation-delay:0.92s"><tspan fill="#953800">AI</tspan><tspan fill="#8c959f"> ............. </tspan><tspan fill="#24292f">Claude API · MCP servers · Claude Code</tspan></text>
+<text x="485" y="216" xml:space="preserve" class="l" style="animation-delay:0.98s"><tspan fill="#953800">Previously</tspan><tspan fill="#8c959f"> ..... </tspan><tspan fill="#24292f">Bitcoin Ordinals · BRC-20 · EVM · UTXO</tspan></text>
+<text x="485" y="260" xml:space="preserve" class="l" style="animation-delay:1.10s"><tspan fill="#1a7f37">─ Building ───────────────────────────────────────────────────────</tspan></text>
+<text x="485" y="282" xml:space="preserve" class="l" style="animation-delay:1.16s"><tspan fill="#953800">dream.mn</tspan><tspan fill="#8c959f"> ....... </tspan><tspan fill="#24292f">multi-tenant commerce OS · 7+ live tenants</tspan></text>
+<text x="485" y="304" xml:space="preserve" class="l" style="animation-delay:1.22s"><tspan fill="#953800">capitalmarkets</tspan><tspan fill="#8c959f"> . </tspan><tspan fill="#24292f">Mongolia's capital markets, for global investors</tspan></text>
+<text x="485" y="326" xml:space="preserve" class="l" style="animation-delay:1.28s"><tspan fill="#953800">Commerce MCP</tspan><tspan fill="#8c959f"> ... </tspan><tspan fill="#24292f">run catalog + finance ops from Claude</tspan></text>
+<text x="485" y="370" xml:space="preserve" class="l" style="animation-delay:1.40s"><tspan fill="#1a7f37">─ GitHub (incl. private) ─────────────────────────────────────────</tspan></text>
+<text x="485" y="392" xml:space="preserve" class="l" style="animation-delay:1.46s"><tspan fill="#953800">Contributions</tspan><tspan fill="#8c959f"> .. </tspan><tspan fill="#24292f">7,752 this year · 11,400 all-time</tspan></text>
+<text x="485" y="414" xml:space="preserve" class="l" style="animation-delay:1.52s"><tspan fill="#953800">Repos</tspan><tspan fill="#8c959f"> .......... </tspan><tspan fill="#24292f">44 public · Followers 22</tspan></text>
+<text x="485" y="458" xml:space="preserve" class="l" style="animation-delay:1.64s"><tspan fill="#1a7f37">dolgoon@ulaanbaatar</tspan><tspan fill="#24292f"> ~ $ </tspan><tspan fill="#24292f" class="c">█</tspan></text>
+</svg>
